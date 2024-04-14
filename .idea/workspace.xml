@@ -4,113 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-1-pij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/bbk-pij-d12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/Letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/LettersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d12/src/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/bbk-pij-d13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/src/SimpleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d13/src/SimpleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bbk-pij-d14/bbk-pij-d14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_exam/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_exam/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_exam/CounterHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_exam/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_exam/question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week01/NumberPyramidsA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week01/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week01/PrimeNumbersHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/LineToColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/LineToColumnHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/PalindromeHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/PointDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week03/RectangleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week04/BinaryDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week04/BinaryDecimalHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week04/Integer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week04/Integer2Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/CalculatorHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/CreditCardChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/Luhn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/Luhn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/MarksClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/MarksClassifierHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week07/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week07/OldPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week07/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week07/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/PairHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/BinaryExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/ExpressionDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Hailstone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/IntConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/PlusExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/TimesExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/DoubleRepeater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/DoubleRepeaterDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/ExamResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/ExamResultDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/ExamResultHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/ExamResultUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/OneDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/ShapeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/TwoDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/Increaser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/ResponsiveUi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/TextLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/TextLoopSleep1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/TextLoopSleep2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/UiTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week17/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week17/MealOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week17/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week17/RestaurantDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week19/GetQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week19/ManyPostCodesQueryData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week19/PostcodeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week19/PostcodeResponse.java" afterDir="false" />
+    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Working through PiJ tutorial worksheets as practice for exam">
+      <change afterPath="$PROJECT_DIR$/src/week08/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week08/AnimalHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week08/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week08/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week09/SetsOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week07/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week07/OldPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/OldPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week08/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week08/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Pair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,26 +73,13 @@
       <recent name="$PROJECT_DIR$/src/week14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PairHelper">
-    <configuration name="CalculatorHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.CalculatorHelper" />
+  <component name="RunManager" selected="Application.PhoneLauncher">
+    <configuration name="AnimalHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week08.AnimalHelper" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Luhn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.Luhn2" />
-      <module name="bbk-1-pij" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week05.*" />
+          <option name="PATTERN" value="week08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,20 +126,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetsOrders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week09.SetsOrders" />
+      <module name="bbk-1-pij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CalculatorHelper" />
-      <item itemvalue="Application.Luhn2" />
+      <item itemvalue="Application.AnimalHelper" />
       <item itemvalue="Application.MarksClassifierHelper" />
       <item itemvalue="Application.PairHelper" />
       <item itemvalue="Application.PhoneLauncher" />
+      <item itemvalue="Application.SetsOrders" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PairHelper" />
         <item itemvalue="Application.PhoneLauncher" />
+        <item itemvalue="Application.SetsOrders" />
+        <item itemvalue="Application.AnimalHelper" />
+        <item itemvalue="Application.PairHelper" />
         <item itemvalue="Application.MarksClassifierHelper" />
-        <item itemvalue="Application.Luhn2" />
-        <item itemvalue="Application.CalculatorHelper" />
       </list>
     </recent_temporary>
   </component>
@@ -268,12 +173,36 @@
       <workItem from="1710184545526" duration="6121000" />
       <workItem from="1710239529229" duration="587000" />
       <workItem from="1712525042967" duration="16326000" />
-      <workItem from="1712658784148" duration="18095000" />
+      <workItem from="1712658784148" duration="28667000" />
     </task>
+    <task id="LOCAL-00001" summary="Working through PiJ tutorial worksheets as practice for exam">
+      <option name="closed" value="true" />
+      <created>1712702310789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712702310789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working through PiJ tutorial worksheets as practice for exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working through PiJ tutorial worksheets as practice for exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

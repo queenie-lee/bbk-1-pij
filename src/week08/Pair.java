@@ -9,8 +9,8 @@ public class Pair <T, K>{
         this.object2 = object2;
     }
 
-    public Pair(T object) {
-        this(object, (K)object);
+    public Pair(Pair<? extends T, ? extends K> other) {
+        this(other.object1, other.object2);
     }
     public T getObject1() {
         return this.object1;
@@ -19,7 +19,7 @@ public class Pair <T, K>{
         return this.object2;
     }
 
-    public Pair swap() {
-        return new Pair(getObject2(),getObject1());
+    public Pair<K,T> swap() {
+        return new Pair<>(getObject2(),getObject1());
     }
 }

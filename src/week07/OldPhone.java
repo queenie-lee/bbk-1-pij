@@ -28,4 +28,20 @@ public class OldPhone implements Phone {
     public void call(String number) {
         System.out.println("Calling <" + number +">");
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null) {
+            return false;
+        } else if (this == obj) {
+            return true;
+//        } else if (obj instanceof OldPhone oldPhone) {
+//            return oldPhone.brand.equals(brand);
+        }
+        else if (this.getClass() == obj.getClass()) {
+            return ((OldPhone)obj).brand.equals(brand);
+        } else {
+            return false;
+        }
+    }
 }

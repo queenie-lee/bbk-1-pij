@@ -1,5 +1,7 @@
 package week07;
 
+import java.util.Arrays;
+
 public class MobilePhone extends OldPhone {
     private String[] calledNumbers;
     int memorySpace = 10;
@@ -49,5 +51,18 @@ public class MobilePhone extends OldPhone {
                 System.out.println(memspace);
             }
         }
+    }
+//    public String[] callHistory() {
+//        return calledNumbers;
+//    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (super.equals(obj)) {
+            return Arrays.equals(((MobilePhone)obj).calledNumbers,calledNumbers);
+//            return (MobilePhone)obj.calledNumbers.equals(calledNumbers);
+            //page 51
+        }
+        return false;
     }
 }
