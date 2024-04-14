@@ -60,8 +60,6 @@ public class MobilePhone extends OldPhone {
     public boolean equals(Object obj) {
         if (super.equals(obj)) {
             return Arrays.equals(((MobilePhone)obj).calledNumbers,calledNumbers);
-//            return (MobilePhone)obj.calledNumbers.equals(calledNumbers);
-            //page 51
         }
         return false;
     }

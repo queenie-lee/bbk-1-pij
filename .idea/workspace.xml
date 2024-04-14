@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Working through PiJ tutorial worksheets as practice for exam">
-      <change afterPath="$PROJECT_DIR$/src/week08/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/AnimalHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week08/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week09/SetsOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week09/ElementCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week09/ElementCounterHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week07/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week07/OldPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/OldPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week08/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week08/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week08/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week08/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week08/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +70,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/week14" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week09" />
+      <recent name="week08" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneLauncher">
+  <component name="RunManager" selected="Application.ElementCounterHelper">
     <configuration name="AnimalHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week08.AnimalHelper" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week08.*" />
+          <option name="PATTERN" value="week09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarksClassifierHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week06.MarksClassifierHelper" />
+    <configuration name="ElementCounterHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week09.ElementCounterHelper" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week06.*" />
+          <option name="PATTERN" value="week09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +107,7 @@
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week08.*" />
+          <option name="PATTERN" value="week09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,18 +143,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.AnimalHelper" />
-      <item itemvalue="Application.MarksClassifierHelper" />
+      <item itemvalue="Application.ElementCounterHelper" />
       <item itemvalue="Application.PairHelper" />
       <item itemvalue="Application.PhoneLauncher" />
       <item itemvalue="Application.SetsOrders" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElementCounterHelper" />
         <item itemvalue="Application.PhoneLauncher" />
         <item itemvalue="Application.SetsOrders" />
         <item itemvalue="Application.AnimalHelper" />
         <item itemvalue="Application.PairHelper" />
-        <item itemvalue="Application.MarksClassifierHelper" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +175,7 @@
       <workItem from="1710184545526" duration="6121000" />
       <workItem from="1710239529229" duration="587000" />
       <workItem from="1712525042967" duration="16326000" />
-      <workItem from="1712658784148" duration="28667000" />
+      <workItem from="1712658784148" duration="39970000" />
     </task>
     <task id="LOCAL-00001" summary="Working through PiJ tutorial worksheets as practice for exam">
       <option name="closed" value="true" />
@@ -183,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712702310789</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working through PiJ tutorial worksheets as practice for exam">
+      <option name="closed" value="true" />
+      <created>1713101806185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713101806185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +221,11 @@
           <url>file://$PROJECT_DIR$/src/week15/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week09/ElementCounter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

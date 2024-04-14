@@ -30,6 +30,11 @@ public class OldPhone implements Phone {
     }
 
     @Override
+    public int hashCode() {
+        return brand.hashCode();
+    }
+
+    @Override
     public boolean equals(Object obj) {
         if (obj == null) {
             return false;
