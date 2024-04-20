@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Working through PiJ tutorial worksheets as practice for exam">
-      <change afterPath="$PROJECT_DIR$/src/week09/ElementCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week09/ElementCounterHelper.java" afterDir="false" />
+    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Day 9 exercises">
+      <change afterPath="$PROJECT_DIR$/src/POPII2019/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII2019/TimerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/question4Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/MeanAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/PrimeDivisorList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week07/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week07/OldPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/OldPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week07/PhoneLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week08/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week08/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week08/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week08/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +73,7 @@
       <recent name="week08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElementCounterHelper">
-    <configuration name="AnimalHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week08.AnimalHelper" />
-      <module name="bbk-1-pij" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SecondLowest">
     <configuration name="ElementCounterHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week09.ElementCounterHelper" />
       <module name="bbk-1-pij" />
@@ -102,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week08.PairHelper" />
+    <configuration name="MeanAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.MeanAverage" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week09.*" />
+          <option name="PATTERN" value="week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +106,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POPII_2020.SecondLowest" />
+      <module name="bbk-1-pij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POPII_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnimalHelper" />
+      <item itemvalue="Application.SecondLowest" />
       <item itemvalue="Application.ElementCounterHelper" />
-      <item itemvalue="Application.PairHelper" />
+      <item itemvalue="Application.MeanAverage" />
       <item itemvalue="Application.PhoneLauncher" />
       <item itemvalue="Application.SetsOrders" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLowest" />
+        <item itemvalue="Application.MeanAverage" />
         <item itemvalue="Application.ElementCounterHelper" />
         <item itemvalue="Application.PhoneLauncher" />
         <item itemvalue="Application.SetsOrders" />
-        <item itemvalue="Application.AnimalHelper" />
-        <item itemvalue="Application.PairHelper" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +173,8 @@
       <workItem from="1710184545526" duration="6121000" />
       <workItem from="1710239529229" duration="587000" />
       <workItem from="1712525042967" duration="16326000" />
-      <workItem from="1712658784148" duration="39970000" />
+      <workItem from="1712658784148" duration="47550000" />
+      <workItem from="1713559202289" duration="6385000" />
     </task>
     <task id="LOCAL-00001" summary="Working through PiJ tutorial worksheets as practice for exam">
       <option name="closed" value="true" />
@@ -193,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713101806185</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 9 exercises">
+      <option name="closed" value="true" />
+      <created>1713129625545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713129625545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working through PiJ tutorial worksheets as practice for exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working through PiJ tutorial worksheets as practice for exam" />
+    <MESSAGE value="Day 9 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 9 exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
