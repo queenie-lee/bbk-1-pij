@@ -4,14 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Day 9 exercises">
-      <change afterPath="$PROJECT_DIR$/src/POPII2019/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII2019/TimerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/question4Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week10/MeanAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week10/PrimeDivisorList.java" afterDir="false" />
+    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Day 9 exercises + past exam questions">
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/AnimalHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BiFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BiFunctionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BirkbeckGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/WorkerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2019/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2019/TimerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/InsertSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/SumEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/AnimalProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/FurryCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/RPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POPII_2021/question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_template/examTemplate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POPII2019/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POPII2019/TimerMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,13 +101,13 @@
       <recent name="week08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondLowest">
-    <configuration name="ElementCounterHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week09.ElementCounterHelper" />
+  <component name="RunManager" selected="Application.BiFunctionHelper">
+    <configuration name="BiFunctionHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PIJ_2023.BiFunctionHelper" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week09.*" />
+          <option name="PATTERN" value="PIJ_2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeanAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.MeanAverage" />
+    <configuration name="BirkbeckGreeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PIJ_2023.BirkbeckGreeter" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.*" />
+          <option name="PATTERN" value="PIJ_2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week07.PhoneLauncher" />
+    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PIJ_2023.Mystery" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week07.*" />
+          <option name="PATTERN" value="PIJ_2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POPII_2020.SecondLowest" />
+    <configuration name="RPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POPII_2021.RPS" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POPII_2020.*" />
+          <option name="PATTERN" value="POPII_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetsOrders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week09.SetsOrders" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POPII_2021.RemoveDuplicates" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week09.*" />
+          <option name="PATTERN" value="POPII_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +168,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SecondLowest" />
-      <item itemvalue="Application.ElementCounterHelper" />
-      <item itemvalue="Application.MeanAverage" />
-      <item itemvalue="Application.PhoneLauncher" />
-      <item itemvalue="Application.SetsOrders" />
+      <item itemvalue="Application.BiFunctionHelper" />
+      <item itemvalue="Application.BirkbeckGreeter" />
+      <item itemvalue="Application.Mystery" />
+      <item itemvalue="Application.RPS" />
+      <item itemvalue="Application.RemoveDuplicates" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondLowest" />
-        <item itemvalue="Application.MeanAverage" />
-        <item itemvalue="Application.ElementCounterHelper" />
-        <item itemvalue="Application.PhoneLauncher" />
-        <item itemvalue="Application.SetsOrders" />
+        <item itemvalue="Application.BiFunctionHelper" />
+        <item itemvalue="Application.RPS" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.BirkbeckGreeter" />
+        <item itemvalue="Application.Mystery" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +202,7 @@
       <workItem from="1710239529229" duration="587000" />
       <workItem from="1712525042967" duration="16326000" />
       <workItem from="1712658784148" duration="47550000" />
-      <workItem from="1713559202289" duration="6385000" />
+      <workItem from="1713559202289" duration="40366000" />
     </task>
     <task id="LOCAL-00001" summary="Working through PiJ tutorial worksheets as practice for exam">
       <option name="closed" value="true" />
@@ -200,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713129625545</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 9 exercises + past exam questions">
+      <option name="closed" value="true" />
+      <created>1713601958913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713601958913</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working through PiJ tutorial worksheets as practice for exam" />
     <MESSAGE value="Day 9 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 9 exercises" />
+    <MESSAGE value="Day 9 exercises + past exam questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 9 exercises + past exam questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,6 +271,11 @@
           <url>file://$PROJECT_DIR$/src/week09/ElementCounter.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/POPII_2021/RemoveDuplicates.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

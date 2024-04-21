@@ -15,6 +15,8 @@ public class SecondLowest {
 //            if ()
 //        }
         Map<Integer,Integer> frequencyMap = new HashMap<>();
+        // getOrDefault can do the same as below in one single line
+        // frequencyMap.put(i, frequencyMap.getOrDefault(i,0) +1 );
         for (Integer i : a) {
             if (frequencyMap.get(i) == null) {
                 frequencyMap.put(i,1);
@@ -25,6 +27,17 @@ public class SecondLowest {
                 frequencyMap.replace(i,add);
             }
         }
+
+        // using streams to find the second lowest
+//        int frequencyOfInterest = frequencyMap
+//                .values()
+//                .stream()
+//                .distinct()
+//                .sorted()
+//                .skip(1)
+//                .findFirst()
+//                .orElse(Collections.min(frequencyMap.values()));
+
         SortedSet<Integer> frequencyOrder = new TreeSet<>(frequencyMap.values());
         if (frequencyOrder.size() > 1) {
             frequencyOrder.remove(frequencyOrder.first());
