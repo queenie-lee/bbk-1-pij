@@ -1,6 +1,4 @@
-package mock_exam;
-
-import java.util.List;
+package mock_exam_attempt1;
 
 public class question2 {
 //    public static List<Number> extractNumbers(List<?> data) {

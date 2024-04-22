@@ -1,4 +1,4 @@
-package mock_exam;
+package mock_exam_attempt1;
 
 public class Base {
     public int f(Base a) {

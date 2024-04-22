@@ -1,4 +1,4 @@
-package mock_exam;
+package mock_exam_attempt1;
 
 public class CounterHelper {
     public static void main(String[] args) {

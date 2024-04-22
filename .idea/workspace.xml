@@ -4,41 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Day 9 exercises + past exam questions">
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/AnimalHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BiFunctionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BirkbeckGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Mystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PIJ_2023/WorkerHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2019/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2019/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2019/TimerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/InsertSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/SumEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2020/question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/AnimalProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/FurryCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/RPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/Vote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POPII_2021/question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam_template/examTemplate.java" afterDir="false" />
+    <list default="true" id="06e51efb-57a6-4f5a-8325-6e2e6b915bdd" name="Changes" comment="Past exam questions from POPII 2019, 2021 and PiJ 2023">
+      <change afterPath="$PROJECT_DIR$/src/POPII_2020/toggleCaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/ComparatorString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/ExtractNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/Maker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/SubTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam_attempt1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam_attempt1/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/DoubleRepeaterDriver_lab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POPII2019/Timer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POPII2019/TimerMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POPII_2020/SecondLowest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POPII_2020/question3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_exam/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_exam_attempt1/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_exam/CounterHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_exam_attempt1/CounterHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_exam/MaxCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_exam/MaxCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_exam/question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_exam_attempt1/question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week03/PalindromeHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week03/PalindromeHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week10/PrimeDivisorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/PrimeDivisorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week15/DoubleRepeaterDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week15/DoubleRepeaterDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -101,13 +94,13 @@
       <recent name="week08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BiFunctionHelper">
-    <configuration name="BiFunctionHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PIJ_2023.BiFunctionHelper" />
+  <component name="RunManager" selected="Application.Tree">
+    <configuration name="ComparatorString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mock_exam.ComparatorString" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PIJ_2023.*" />
+          <option name="PATTERN" value="mock_exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirkbeckGreeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PIJ_2023.BirkbeckGreeter" />
+    <configuration name="DoubleRepeaterDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.DoubleRepeaterDriver" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PIJ_2023.*" />
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PIJ_2023.Mystery" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.QuickSort" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PIJ_2023.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POPII_2021.RPS" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.Reverse" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POPII_2021.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POPII_2021.RemoveDuplicates" />
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mock_exam.Tree" />
       <module name="bbk-1-pij" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POPII_2021.*" />
+          <option name="PATTERN" value="mock_exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiFunctionHelper" />
-      <item itemvalue="Application.BirkbeckGreeter" />
-      <item itemvalue="Application.Mystery" />
-      <item itemvalue="Application.RPS" />
-      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.ComparatorString" />
+      <item itemvalue="Application.DoubleRepeaterDriver" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.Tree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BiFunctionHelper" />
-        <item itemvalue="Application.RPS" />
-        <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.BirkbeckGreeter" />
-        <item itemvalue="Application.Mystery" />
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.ComparatorString" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.DoubleRepeaterDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +195,7 @@
       <workItem from="1710239529229" duration="587000" />
       <workItem from="1712525042967" duration="16326000" />
       <workItem from="1712658784148" duration="47550000" />
-      <workItem from="1713559202289" duration="40366000" />
+      <workItem from="1713559202289" duration="76228000" />
     </task>
     <task id="LOCAL-00001" summary="Working through PiJ tutorial worksheets as practice for exam">
       <option name="closed" value="true" />
@@ -236,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713601958913</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Past exam questions from POPII 2019, 2021 and PiJ 2023">
+      <option name="closed" value="true" />
+      <created>1713732915469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713732915469</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +258,8 @@
     <MESSAGE value="Working through PiJ tutorial worksheets as practice for exam" />
     <MESSAGE value="Day 9 exercises" />
     <MESSAGE value="Day 9 exercises + past exam questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 9 exercises + past exam questions" />
+    <MESSAGE value="Past exam questions from POPII 2019, 2021 and PiJ 2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Past exam questions from POPII 2019, 2021 and PiJ 2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,6 +278,30 @@
           <url>file://$PROJECT_DIR$/src/POPII_2021/RemoveDuplicates.java</url>
           <line>43</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PIJ_2023/BurrowChamber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week12/Palindrome.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week10/PrimeDivisorList.java</url>
+          <line>38</line>
+          <properties class="week10.PrimeDivisorList" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
